@@ -1,16 +1,52 @@
-## Hi there 👋
+# Кирилл | Junior Full-Stack Developer
 
-<!--
-**KirillxC/KirillxC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Пишу веб-приложения, телеграм-ботов и полезные утилиты.  
+🔧 Работаю с фронтом, бэком и немного с железом.  
+🧠 Учу новое каждый день и стараюсь писать понятный код.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Стек
+
+**Frontend:**  
+- HTML, CSS, JavaScript  
+- React
+
+**Backend:**  
+- Python (FastAPI, Flask)  
+- C++ / C
+
+**Базы данных:**  
+- MySQL  
+- SQLite (для мелких проектов)
+
+**Другое:**  
+- Git, Bash, Docker (по необходимости)  
+- Flet, Telegram Bot API  
+- Немного Modbus, немного микроконтроллеров
+
+**Используемые мной ОС:**  
+- Arch Linux
+- Windows 10 pro
+- Kali linux (Mobile)
+
+---
+
+
+(ссылки добавлю позже)
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@Kiriehka_ww](https://t.me/Kiriehka_ww)
+- Почта: kirillxC@proton.me
+
+---
+
+## 🧱 Принципы
+
+> Пиши код, который будет понятен тебе через полгода.
+
+---
+
